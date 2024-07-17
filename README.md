@@ -4,7 +4,7 @@
 - 💞️ I’m looking to protect networks and find threats before they can become problems.
 - 📫 How to reach me: Email gomeschristopher117@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Dungeons and Dragons and I want to write a fantasy novel using their IP someday.
 
 <!---
 cgomes117/cgomes117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
