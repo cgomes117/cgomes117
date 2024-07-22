@@ -6,14 +6,14 @@
 
 <h2>📜 Certifications</h2>
 
-- [PenTest+]
-- [CySA+]
-- [Security+]
-- [Systems Security Certified Professional]
-- [Network+]
-- [Project+]
-- [ITIL Foundations in IT Management]
-- [A+]
+- PenTest+
+- CySA+
+- Security+
+- Systems Security Certified Professional
+- Network+
+- Project+
+- ITIL Foundations in IT Management
+- A+
 
 <h2> 🤳 Connect with me:</h2>
 
